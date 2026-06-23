@@ -348,6 +348,26 @@ body {
    CARDS
 ========================================== */
 
+.project-card {
+
+  text-decoration: none;
+
+  color: inherit;
+
+  cursor: pointer;
+}
+
+.project-link {
+
+  margin-top: 1rem;
+
+  color: var(--accent-soft);
+
+  font-size: .9rem;
+
+  font-weight: 500;
+}
+
 .constellation-grid,
 .project-grid {
 
